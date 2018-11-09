@@ -11,4 +11,4 @@ This is my website. Welcome.
 
 ### Contact me
 
-[email@domain.com](mailto:albertom3763@aurorak12.org)
+[albertom3763@aurorak12.org](mailto:albertom3763@aurorak12.org)
