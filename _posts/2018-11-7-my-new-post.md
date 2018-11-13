@@ -4,8 +4,7 @@ title: New Post!
 ---
 
 ![The Champions League Trophy](/images/Trophy.jpg)
-
-
+# UEFA Champions League
 Today is the second set of matches from matchday 4 of 6. The groups that play today is because are groups E-H 
 
 
