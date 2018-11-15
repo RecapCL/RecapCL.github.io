@@ -15,3 +15,8 @@ The UEFA Champions League is one of the best and most exciting leagues to watch.
 # This is UEFA
 
 The UEFA Champions League is Champions League that is associated with the Union of European Football Associations (UEFA). To start the competion there are 8 groups (A-H) with each group consisting of 4 teams. So 32 teams start the competion and play 6 total matches. After those 6 matches (playing each team twice, home and away) only the top 2 teams in each group can go on to the next round and so slowly the number of teams is getting cut in half.
+
+![Real Madrid](/images/Real Madrid.jpeg)
+
+# Real Madrid 
+
